@@ -1,1 +1,1 @@
-<h2>lexicographically-smallest-permutation-greater-than-target Notes</h2><hr>[ Time taken: 1d 7hrs 8m 7s ]
+<h2>lexicographically-smallest-permutation-greater-than-target Notes</h2><hr>[ Time taken: 1d 8hrs 29m 8s ]
